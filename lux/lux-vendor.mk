@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/motorola/lux/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/motorola/lux/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-    vendor/motorola/lux/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/motorola/lux/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/lux/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
     vendor/motorola/lux/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so \
@@ -62,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/lib/libmotocalibration.so:system/lib/libmotocalibration.so \
     vendor/motorola/lux/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/motorola/lux/proprietary/lib/libunshorten.so:system/lib/libunshorten.so \
+    vendor/motorola/lux/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \
     vendor/motorola/lux/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/motorola/lux/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/motorola/lux/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
